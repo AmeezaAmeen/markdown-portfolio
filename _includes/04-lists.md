@@ -1,0 +1,5 @@
+* RED
+* BLUE
+  * GREEN
+  * BLACK
+.
